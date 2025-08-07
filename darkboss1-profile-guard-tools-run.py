@@ -10,7 +10,7 @@ def banner():
     clear()
     print("""
 ╔══════════════════════════════════════════════╗
-║          🛡️  PROFILE GUARD TOOL LAUNCHER 🛡️ ║
+║ 🛡️ DARKBOSS1 PROFILE GUARD TOOL LAUNCHER 🛡️ ║
 ╠══════════════════════════════════════════════╣
 ║ Author   : darkboss1 Ak47                    ║
 ║ GitHub   : https://github.com/darkboss1      ║
